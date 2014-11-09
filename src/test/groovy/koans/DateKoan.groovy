@@ -15,7 +15,6 @@ package koans
 */
 
 import spock.lang.*
-import spock.lang.Stepwise
 
 @spock.lang.Stepwise
 class DateKoan extends Koan {
